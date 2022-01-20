@@ -1,2 +1,2 @@
 # Platform game
-Gioco sviluppato durante un esperienza di stage da due ragazzi.
+The first project made with unity during a work experience
